@@ -8,3 +8,6 @@ git commit -m "Message"
 
 git push -u origin main
 -> send local commit to remote repo
+
+git submodule add (Url_of_repo)
+-> adds a repo as submodule, somehow used for kicad
