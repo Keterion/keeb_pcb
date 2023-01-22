@@ -12,4 +12,5 @@ git push -u origin main
 git submodule add (Url_of_repo)
 -> adds a repo as submodule, somehow used for kicad
 
-This is a test
+git clone [url]
+-> clones a repo but you can push to master and stuff (creates a local copy which is linked ig)
