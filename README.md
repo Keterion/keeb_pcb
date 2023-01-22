@@ -11,3 +11,5 @@ git push -u origin main
 
 git submodule add (Url_of_repo)
 -> adds a repo as submodule, somehow used for kicad
+
+This is a test
